@@ -1,0 +1,34 @@
+{
+    "drivers": [
+        {
+           "name": "Aliaa",
+           "phone": "0100808080",
+           "personal_photo": "https://mursheed.visualinnovate.net/default_user.jpg",
+           "work_citys" :[
+               {
+                   "city": "Cairo",
+                   "price": 210
+               },
+               {
+                   "city": "Mansoura",
+                   "price": 100
+               }
+           ]
+        },
+        {
+           "name": "Abdalazem Saleh",
+           "phone": "0100808080",
+           "personal_photo": "https://mursheed.visualinnovate.net/default_user.jpg",
+              "work_citys": [
+                {
+                     "city": "Cairo",
+                     "price": 210
+                },
+                {
+                     "city": "Mansoura",
+                     "price": 100
+                }
+              ]
+        }
+    ]
+}
